@@ -41,3 +41,6 @@ The Typing Challenge is a web-based typing game designed to test a user's typing
 * ✅ Live WPM and accuracy metrics.
 * ✅ Timer functionality.
 * ✅ Clean, mobile-friendly UI.
+
+  ![Screenshot 2025-05-07 213159](https://github.com/user-attachments/assets/7392ccf2-ddd0-4e3b-ac1a-65b52ffd3077)
+
