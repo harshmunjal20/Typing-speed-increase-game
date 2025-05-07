@@ -4,9 +4,9 @@ Overview
 The Typing Challenge is a web-based typing game designed to test a user's typing speed and accuracy. It uses standard web technologies: HTML, CSS, and JavaScript.
 
 File Structure
-index.html        # Main HTML structure
-style.css         # Styling for layout and components
-script.js         # JavaScript logic for functionality
+index.html         Main HTML structure
+style.css          Styling for layout and components
+script.js          JavaScript logic for functionality
 
 
  🚀 Features
