@@ -4,7 +4,7 @@ Overview
 The Typing Challenge is a web-based typing game designed to test a user's typing speed and accuracy. It uses standard web technologies: HTML, CSS, and JavaScript.
 
 
-# 🚀 Features
+# 🚀 (Features)
 
 * Randomly displays one of 10 different typing sentences.
 * Real-time feedback on correct and incorrect characters.
